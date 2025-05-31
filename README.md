@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kalyanamabhinav17@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EB7HgHkF9dTx13Gh1gOUFN_Wb6QoWIDu/view?usp=sharing](https://drive.google.com/file/d/1EB7HgHkF9dTx13Gh1gOUFN_Wb6QoWIDu/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1EB7HgHkF9dTx13Gh1gOUFN_Wb6QoWIDu/view?usp=sharing" target="_blank" style="display: inline-block; padding: 6px 12px; background-color: pink; color: black; font-weight: bold; border-radius: 4px; text-decoration: none; font-family: sans-serif;">Resume</a>
 
 - ⚡ Fun fact **i read books to escape reality**
 
