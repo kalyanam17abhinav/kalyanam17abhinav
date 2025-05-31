@@ -12,6 +12,6 @@ Here are some ideas to get you started: -->
 
 - 🤔 I’m looking for help with ... exploring new frameworks and AI tools
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: ... kalyanamportfolio.netlify.app
+- 📫 How to reach me: ... [kalyanamportfolio.netlify.app](https://kalyanamportfolio.netlify.app/)
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: ... i read books to escape reality
