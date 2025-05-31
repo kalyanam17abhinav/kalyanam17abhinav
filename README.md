@@ -7,7 +7,9 @@ Here are some ideas to get you started: -->
 
 <!-- - 🔭 I’m currently working ... -->
 - 🌱 I’m currently learning ... how to build user-friendly websites
+ 
 - 👯 I’m looking to collaborate on ... web projects
+
 - 🤔 I’m looking for help with ... exploring new frameworks and AI tools
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: ... kalyanamportfolio.netlify.app
